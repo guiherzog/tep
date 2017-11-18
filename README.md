@@ -1,5 +1,5 @@
 # Selected Topics in Computer Programming  
-A set of algorithmic exercises given in a Computer Science class by Prof. Vinicius Gusmão (http://vigusmao.github.io/) and other interesting exercises found on the internet.
+A set of algorithmic exercises given in a Computer Science class by Prof. Vinicius Gusmão (http://vigusmao.github.io/) at UFRJ, Brazil and other interesting exercises found on the internet.
 
 These exercises are separated by folder and on each folder there is an explanation of how they were solved and a set of solutions.
 
@@ -19,5 +19,5 @@ These problems were solved randomly in C, Python or Javascript. Don't ask me why
   
 #### List of interesting exercises found on the Internet: ####
   
-  - **Problem 01:** Binary Gap.
-  - **Problem 02:** CyclicRotation.
+  - **Problem A:** Binary Gap.
+  - **Problem B:** CyclicRotation.
