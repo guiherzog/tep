@@ -16,6 +16,7 @@ These problems were solved randomly in C, Python or Javascript. Don't ask me why
   - **Problem 06b:** A different implementation of Tries.
   - **Problem 07:** Fitting cars in a Ferry.
   - **Problem 08:** Dice Game - Analysing win probabilities of two pairs vs three of a kind.
+  - **HourRank 16:** A set of four problems from HackerRank.
   
 #### List of interesting exercises found on the Internet: ####
   
