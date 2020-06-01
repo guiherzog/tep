@@ -40,13 +40,13 @@ def calcProbs(rounds, dist):
 uniformDistribution = [1,1];
 nonUniformDistribution = [1,10];
 
-# Teste com distribuição uniforme.
+# Test with uniform distribution.
 probXeqZ, probXeqZCond = calcProbs(10000, nonUniformDistribution);
 print('Results using a Non-Uniform Prob. Distribution:')
 print(f'P(X = Z):\t\t{probXeqZ} \nP(X = Z | X != Y): \t{probXeqZCond}');
 
 
-# # Teste com distribuição não-uniforme.
+# # Test with non-uniform distribution
 probXeqZ, probXeqZCond = calcProbs(10000, uniformDistribution);
 print('Results using a Uniform Prob Distribution:')
 print(f'P(X = Z):\t\t{probXeqZ} \nP(X = Z | X != Y): \t{probXeqZCond}');
