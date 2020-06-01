@@ -16,4 +16,4 @@ These problems were solved randomly in C, Python or Javascript. Don't ask me why
   - **Problem 06b:** A different implementation of Tries [Pending].
   - **Problem 07:** Fitting cars in a Ferry [Pending].
   - **Problem 08:** Dice Game - Analysing win probabilities of two pairs vs three of a kind [Done].
-  - **HourRank 16:** A set of four problems from HackerRank [Incomplete 2/4 Done].
+  - **HourRank 16:** A set of four problems from HackerRank.
